@@ -21,7 +21,7 @@ class Tmep_CZ extends WP_Widget {
 		parent::__construct(
 			'tmep', // Base ID
 			'TMEP.cz', // Name
-			array( 'description' => 'Widget pro zobrazení aktuálně naměřených hodnot tepploty a vlhkosti z tmep.cz' ) // Args
+			array( 'description' => 'Widget pro zobrazení aktuálně naměřených hodnot teploty a vlhkosti z tmep.cz' ) // Args
 		);
 	}
 
